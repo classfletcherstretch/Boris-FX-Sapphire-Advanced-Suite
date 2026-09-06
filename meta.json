@@ -1,0 +1,23 @@
+{
+  "repo": "boris-fx-sapphire-advanced-suite",
+  "product": "Boris FX Sapphire Advanced Suite",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "boris-fx-sapphire",
+    "sapphire-plugins",
+    "optical-effects",
+    "gpu-compositing",
+    "vfx-looks",
+    "borisfx-setup-failed-fix",
+    "how-to-install-borisfx",
+    "borisfx-windows",
+    "borisfx-desktop-2026",
+    "borisfx-desktop-package"
+  ],
+  "site": "toolix.me"
+}
